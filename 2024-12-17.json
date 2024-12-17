@@ -1,0 +1,26 @@
+{
+  "name": "Dorothy Cummings",
+  "age": 21,
+  "address": {
+    "street": "Gova View",
+    "city": "Ceasara",
+    "state": "CT",
+    "zip": "74361"
+  },
+  "contact": {
+    "phone": "(605) 960-2965",
+    "servicePhone": "800771812"
+  },
+  "birthday": "1973-03-24T01:54:51.446Z",
+  "ip": "65.162.158.31",
+  "foo": "bar",
+  "profile": {
+    "about": "La fe vut ul ra fuliz jaj jisojno tal ilbul iwutafha ohikev pac batos vi dis. Bomci fiav ew wenu hi fuwco homfe uvcamza bimekihe lodrabo bewivupot ulhatpo oc. Ikeekuid teejuka afluko ju ubicasom ris ju imih hac rij re woli oropuca en cuzfujej omeib. Mutej pih goslawa dade lealali net ozsavev vir zis sewne navuska unanehif acvar sened piwrufo.",
+    "bio": "Ki sehen tuj uhopuwu ehiol ke affuh bo nuteke aze eja lecsu puk vuidedag rucme. Ud rej duvidhu gemjovuna jucuwev let tetzaku nucfoca duz fi cijrik puw uvowe buknifik cugek womofera. Rejfip li lapavin itasaf ikezag fepnu ucuhaz bodef ugwon rakti sefudo kik gihme mingi nakumu hasav."
+  },
+  "apiKey": "379f1bab4f983287be650616a40a401058d5194dd978764916d027d912343307",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}

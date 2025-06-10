@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Hopkins",
+    "age": 115,
+    "address": {
+        "street": "Gutierrez Common",
+        "city": "Mckenzieton",
+        "state": "Washington",
+        "zip": "41504"
+    },
+    "contact": {
+        "phone": "+1-819-755-4777x680",
+        "servicePhone": "800343313"
+    },
+    "birthday": "1910-05-12",
+    "ip": "207.47.114.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Outside development science next respond exactly night. Responsibility get provide plant assume.\nPresident time act. Protect tonight provide girl.",
+        "bio": "Those up spend check explain whether benefit. Cut wrong during state between use crime.\nFood matter argue start beyond. Recent market bar lay prevent."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Anderson",
+    "age": 66,
+    "address": {
+        "street": "Hawkins Burgs",
+        "city": "South Raymond",
+        "state": "Delaware",
+        "zip": "01200"
+    },
+    "contact": {
+        "phone": "560.624.7073",
+        "servicePhone": "800235133"
+    },
+    "birthday": "1959-06-06",
+    "ip": "93.80.238.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Class few Mrs tax wide range dog cup. Sure thank buy be above. Behind attack big benefit certainly man.\nOften fish else billion. Happy nice any strategy quickly.",
+        "bio": "Occur child spend decision. Manage call remain. Very animal cause could special staff next her.\nIf trouble there become amount stop reason six.\nGrow music team two. Such consumer beautiful skin."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

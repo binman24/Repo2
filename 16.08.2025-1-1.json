@@ -1,0 +1,25 @@
+{
+    "name": "David Foster",
+    "age": 80,
+    "address": {
+        "street": "Edwin Fork",
+        "city": "Thompsonburgh",
+        "state": "Iowa",
+        "zip": "01415"
+    },
+    "contact": {
+        "phone": "001-962-608-8254",
+        "servicePhone": "800838681"
+    },
+    "birthday": "1945-29-10",
+    "ip": "205.68.89.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Stock site art mission crime. Mrs night ever maintain civil public media. See challenge best seven.\nLeader end cause team tree. Light cut eye indicate. Provide trial majority crime.",
+        "bio": "South week rather better example toward tax. Whom official camera fact guess strategy.\nDown to very need learn look even animal. Attention example cut watch be member sense."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}

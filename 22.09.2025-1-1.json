@@ -1,0 +1,25 @@
+{
+    "name": "Eric Nelson",
+    "age": 83,
+    "address": {
+        "street": "Cole Avenue",
+        "city": "East Ritashire",
+        "state": "Alabama",
+        "zip": "98072"
+    },
+    "contact": {
+        "phone": "+1-388-791-2070x73465",
+        "servicePhone": "800182594"
+    },
+    "birthday": "1942-14-12",
+    "ip": "99.196.126.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Kind give buy. Show tell western doctor identify face check. Nice purpose fight able.",
+        "bio": "Thank professor full. Audience rest trial language base up. Scientist pattern rich value.\nSave lot these surface her research become. Too big inside attention coach whatever official."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}

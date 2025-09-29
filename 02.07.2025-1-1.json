@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Brown",
+    "age": 99,
+    "address": {
+        "street": "May Circles",
+        "city": "Nicholasstad",
+        "state": "Maine",
+        "zip": "95728"
+    },
+    "contact": {
+        "phone": "472-362-1116",
+        "servicePhone": "800028677"
+    },
+    "birthday": "1926-29-07",
+    "ip": "150.38.64.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Process religious money yet note style beyond.\nLong offer nature adult. Compare word owner meeting.\nSay property new election mind. Before between product school how onto.",
+        "bio": "Too lose science movie test man can. Information become reality buy price agency. Style choose law center during hot decade. Charge three time better suffer business."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}

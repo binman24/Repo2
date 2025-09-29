@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Amanda Romero DVM",
+    "age": 34,
+    "address": {
+        "street": "Thomas Roads",
+        "city": "Port Kirkville",
+        "state": "Massachusetts",
+        "zip": "92514"
+    },
+    "contact": {
+        "phone": "964-220-3657x8144",
+        "servicePhone": "800467700"
+    },
+    "birthday": "1991-11-03",
+    "ip": "144.121.145.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Perform business cut magazine ok perform west indicate.\nLater onto continue mother after.\nThan serious require my. Order particularly thank Mr baby.",
+        "bio": "Human word without source ball someone throw PM. Benefit better something war under food way. Off suggest by law trouble really. Ahead member in particular newspaper."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}

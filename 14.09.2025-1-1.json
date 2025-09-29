@@ -1,0 +1,25 @@
+{
+    "name": "Manuel Coleman",
+    "age": 74,
+    "address": {
+        "street": "Alvarez Manors",
+        "city": "Williamfort",
+        "state": "Ohio",
+        "zip": "34131"
+    },
+    "contact": {
+        "phone": "(582)893-5580x52082",
+        "servicePhone": "800363474"
+    },
+    "birthday": "1951-07-04",
+    "ip": "46.217.125.69",
+    "foo": "bar",
+    "profile": {
+        "about": "School home rock what. Summer the spring long here full. Dream individual machine bag least sort.\nNewspaper writer order hotel article future. Bring recognize girl her theory.",
+        "bio": "Begin wrong military. Plant economic high. You test sell respond common away.\nLocal decide size politics front technology company peace. Wonder other realize they no commercial."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}

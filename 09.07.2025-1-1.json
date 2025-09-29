@@ -1,0 +1,25 @@
+{
+    "name": "Peter Landry",
+    "age": 97,
+    "address": {
+        "street": "Jose Heights",
+        "city": "Maryland",
+        "state": "Utah",
+        "zip": "89411"
+    },
+    "contact": {
+        "phone": "+1-361-703-4791x5638",
+        "servicePhone": "800440445"
+    },
+    "birthday": "1928-13-03",
+    "ip": "5.48.18.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Something team ok several teach not. Themselves pattern once phone. These reveal like writer where.\nAmong explain born north factor vote. Mission officer politics place time college protect.",
+        "bio": "Girl apply nearly discussion. Score reach tax it guy.\nThey leave paper each when I partner. Huge explain level."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

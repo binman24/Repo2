@@ -1,0 +1,25 @@
+{
+    "name": "Justin Mills",
+    "age": 84,
+    "address": {
+        "street": "Wesley Heights",
+        "city": "East Francisco",
+        "state": "Indiana",
+        "zip": "83224"
+    },
+    "contact": {
+        "phone": "943-897-3274x2580",
+        "servicePhone": "800345792"
+    },
+    "birthday": "1941-04-02",
+    "ip": "151.68.23.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Feel return sense. Draw hundred people measure.\nExperience break hundred professor instead. Keep everyone role check along test. Radio choice action follow staff piece family.",
+        "bio": "Good method paper rise these shake professor. Yes century discussion.\nSet skin despite wrong although front wait official. My minute leave serve among TV word."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Yolanda Holt",
+    "age": 110,
+    "address": {
+        "street": "Teresa Gardens",
+        "city": "South Lisa",
+        "state": "Montana",
+        "zip": "27299"
+    },
+    "contact": {
+        "phone": "273-789-3859",
+        "servicePhone": "800781975"
+    },
+    "birthday": "1915-27-03",
+    "ip": "169.193.105.48",
+    "foo": "bar",
+    "profile": {
+        "about": "If return somebody group later better. Food something ten there worry box service. Stand shoulder if hour eat.",
+        "bio": "Offer think seat one product long full. Modern all however leave policy fund."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}

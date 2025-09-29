@@ -1,0 +1,25 @@
+{
+    "name": "Emily Gonzalez",
+    "age": 36,
+    "address": {
+        "street": "Bond Walks",
+        "city": "South Keith",
+        "state": "Virginia",
+        "zip": "55983"
+    },
+    "contact": {
+        "phone": "(775)591-9169",
+        "servicePhone": "800189153"
+    },
+    "birthday": "1989-03-03",
+    "ip": "70.13.235.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Industry look notice financial. If nothing along then drug. North page serve left common yard huge hotel.",
+        "bio": "Born case article history remember. Board morning entire hope successful follow.\nSmall somebody eight find near would. Past meeting ok old trial article join. Take out detail run your like."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Patterson",
+    "age": 81,
+    "address": {
+        "street": "Conrad Pass",
+        "city": "East Deborahchester",
+        "state": "Mississippi",
+        "zip": "98231"
+    },
+    "contact": {
+        "phone": "+1-887-550-5410x3134",
+        "servicePhone": "800810359"
+    },
+    "birthday": "1944-08-03",
+    "ip": "201.236.7.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Nearly student discover soldier. Staff be leave few late decision sing.\nTo pass half yeah dark. Voice thousand east design community final wind get. Deep return money medical.",
+        "bio": "Lead decide account general forward deep food. President research shoulder language personal great. True physical everybody current."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}

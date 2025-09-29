@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Reynolds",
+    "age": 84,
+    "address": {
+        "street": "Lewis Port",
+        "city": "Christophermouth",
+        "state": "Alaska",
+        "zip": "44199"
+    },
+    "contact": {
+        "phone": "(509)660-5064x121",
+        "servicePhone": "800206861"
+    },
+    "birthday": "1941-09-02",
+    "ip": "200.82.4.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Reflect energy project Democrat third. Worry only keep church. Opportunity collection camera why rate house today.\nSpecial other pass and politics up anyone. Offer clear sing among ask go heart.",
+        "bio": "Trial personal imagine create window risk. Two what little support.\nPersonal radio whose media. Character peace official soon modern."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}

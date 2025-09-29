@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Smith",
+    "age": 3,
+    "address": {
+        "street": "Jesse Islands",
+        "city": "West Daniel",
+        "state": "Montana",
+        "zip": "43183"
+    },
+    "contact": {
+        "phone": "(606)915-1084x554",
+        "servicePhone": "800457551"
+    },
+    "birthday": "2022-03-03",
+    "ip": "95.198.13.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Week culture bring attention. Take according toward organization his. Answer clearly sure success.\nForeign performance meeting ahead during design late. Event as certain doctor do picture.",
+        "bio": "Method describe perform treat career fill.\nPiece member sea order into fight. Religious door spring without."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
